@@ -1,0 +1,7 @@
+scipy
+matplotlib
+pymodm
+PyQt5
+pyqtgraph
+pandas
+openpyxl
